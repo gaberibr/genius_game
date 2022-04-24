@@ -3,7 +3,7 @@
   <h1> Órbi Web Games Developer </h1>
   <h3> <a href="https://gaberibr.github.io/genius_game/">Genius Game</a> </h3>
   </div>
-  <p> Uma atividade realizada na plataforma de aprendizagem Digital Inovation One, portanto decidi aprimorar o jogo acompanhando com aulas complementares do <a href="https://github.com/inkasadev">Phillipe Martins</a>. O objetivo foi criar um jogo interativo conhecido como Genius, um brinquedo muito popular na década de 1980. Distribuído pela Estrela, o brinquedo buscava estimular a memorização de cores e sons. Com um formato semelhante a um OVNI, possuía botões coloridos que emitiam sons harmônicos e se iluminavam em sequência. Cabia aos jogadores repetir o processo sem errar. </p>
+  <p> Uma atividade realizada na plataforma de aprendizagem Digital Inovation One, portanto decidi aprimorar o jogo com aulas complementares do <a href="https://github.com/inkasadev">Phillipe Martins</a>. O objetivo foi criar um jogo interativo conhecido como Genius, um brinquedo muito popular na década de 1980. Distribuído pela Estrela, o brinquedo buscava estimular a memorização de cores e sons. Com um formato semelhante a um OVNI, possuía botões coloridos que emitiam sons harmônicos e se iluminavam em sequência. Cabia aos jogadores repetir o processo sem errar. </p>
   
  ![geniusgame](https://user-images.githubusercontent.com/99212007/164980974-e2525043-5c34-43cb-8402-d799307488ca.png)
 
