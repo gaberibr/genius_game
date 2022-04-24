@@ -9,6 +9,7 @@ Genius era um brinquedo muito popular na década de 1980. Distribuído pela Estr
 ## Concluindo esse projeto, aprendi:
 
 - HTML
+  - div
 
 - CSS
   - Variáveis CSS
